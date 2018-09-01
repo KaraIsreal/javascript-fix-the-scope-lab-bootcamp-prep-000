@@ -24,7 +24,7 @@ const two = 2
 
 var theFunk = 'FUNKY!'
  function funkyFunction() {
-  return(theFunk);
+  return('theFunk');
 }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
