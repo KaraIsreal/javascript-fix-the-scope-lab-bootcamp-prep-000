@@ -24,6 +24,7 @@ const two = 2
 
 var theFunk = 'FUNKY!'
  function funkyFunction() {
+   const theFunk = funkyfunction;
   return(theFunk);
 }
 
